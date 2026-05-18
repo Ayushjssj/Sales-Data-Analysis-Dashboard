@@ -27,9 +27,7 @@ The workflow includes:
 
 ## SQL Analysis Preview
 
-> Add your SQL query screenshot below
-
-![SQL Analysis](screenshots/sql_analysis.png)
+![SQL Analysis](https://github.com/Ayushjssj/Sales-Data-Analysis-Dashboard/blob/main/output/Screenshot%202026-05-18%20192054.png?raw=true)
 
 ---
 
