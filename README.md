@@ -21,9 +21,7 @@ The workflow includes:
 
 ## Power BI Dashboard
 
-> Add your dashboard screenshot below
-
-![Dashboard Screenshot](screenshots/dashboard.png)
+"C:\Users\payus\Pictures\Screenshots\Screenshot 2026-05-18 192038.png"
 
 ---
 
