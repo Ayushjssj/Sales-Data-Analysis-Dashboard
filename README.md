@@ -21,7 +21,7 @@ The workflow includes:
 
 ## Power BI Dashboard
 
-![Power BI Dashboard](/https://github.com/Ayushjssj/Sales-Data-Analysis-Dashboard/blob/f5946fdedb383fb6acfc2cacd4552d716f85ae53/output/Screenshot%202026-05-18%20192038.png)
+![Power BI Dashboard](https://github.com/Ayushjssj/Sales-Data-Analysis-Dashboard/blob/f5946fdedb383fb6acfc2cacd4552d716f85ae53/output/Screenshot%202026-05-18%20192038.png)
 
 ---
 
