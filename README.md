@@ -140,7 +140,7 @@ The Power BI dashboard was designed to:
 ---
 
 ### Project Structure
-
+<pre>
 Sales Data Analysis/
 │
 ├── data/
@@ -158,7 +158,7 @@ Sales Data Analysis/
 ├── output/
 │
 └── README.md
-
+</pre>
 
 ## Technologies Used
 
@@ -174,8 +174,11 @@ Sales Data Analysis/
 
 ## Project Workflow
 
-```text
+<pre>
 Dataset → Python Analysis → MySQL Integration → SQL Queries → Power BI Dashboard
+</pre>
+
+---
 
 #### Learning Outcomes
 
@@ -192,42 +195,52 @@ Through this project, I gained hands-on experience in:
 
 This project can be useful for:
 
-Sales Performance Monitoring
-Business Intelligence Reporting
-Retail Data Analytics
-Revenue Trend Analysis
-Executive Dashboarding
-Data Analyst Portfolio Projects
-Future Improvements
+- Sales Performance Monitoring
+- Business Intelligence Reporting
+- Retail Data Analytics
+- Revenue Trend Analysis
+- Executive Dashboarding
+- Data Analyst Portfolio Projects
+
+#### Future Improvements
 
 Future enhancements may include:
 
-Machine Learning-based Sales Forecasting
-Customer Segmentation Analysis
-Predictive Analytics
-Real-Time Dashboard Integration
-Cloud Database Deployment
-Interactive Web Dashboard Deployment
-Conclusion
+- Machine Learning-based Sales Forecasting
+- Customer Segmentation Analysis
+- Predictive Analytics
+- Real-Time Dashboard Integration
+- Cloud Database Deployment
+- Interactive Web Dashboard Deployment
+
+#### Conclusion
 
 This project demonstrates a complete end-to-end Data Analytics workflow starting from raw CSV data processing to SQL analysis and interactive Power BI dashboard creation.
 
 It highlights practical skills in:
 
-Data preprocessing
-SQL analytics
-Database integration
-KPI reporting
-Dashboard visualization
-Business insight generation
-Author
+- Data preprocessing
+- SQL analytics
+- Database integration
+- KPI reporting
+- Dashboard visualization
+- Business insight generation
+
+---
+
+## Author
 Ayush Pandey
-
 Aspiring Data Analyst & GenAI Enthusiast
+- Python
+- SQL
+- MySQL
+- Power BI
+- Data Visualization
+- Business Intelligence
 
-Python
-SQL
-MySQL
-Power BI
-Data Visualization
-Business Intelligence
+### License 
+This Project is licensed under the MIT License
+
+---
+
+
