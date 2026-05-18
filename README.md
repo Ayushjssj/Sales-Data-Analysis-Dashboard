@@ -54,6 +54,8 @@ This project demonstrates how data analytics can help organizations improve oper
 - KPI calculations
 - Preparing data for visualization and reporting
 
+---
+
 #### Example Analysis Tasks
 
 - Total Sales Calculation
