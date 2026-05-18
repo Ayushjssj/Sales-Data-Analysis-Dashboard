@@ -17,6 +17,68 @@ The workflow includes:
 
 ---
 
+### Business Problem Statement
+
+Businesses generate large amounts of sales data daily, but raw datasets alone cannot provide meaningful insights.
+
+---
+
+#### The goal of this project is to analyze retail sales data and identify:
+
+- High-performing regions
+- Best-selling product categories
+- Monthly sales trends
+- Profitability patterns
+- Business KPIs for strategic decision-making
+
+This project demonstrates how data analytics can help organizations improve operational efficiency and business performance.
+
+---
+
+#### Key Insights Generated
+- Identified regions contributing the highest revenue
+- Analyzed category-wise profit distribution
+- Detected monthly sales growth trends
+- Compared sales and profitability across product segments
+- Extracted actionable business insights using SQL and Power BI
+- Python Analysis
+
+---
+
+#### Python and Pandas were used for:
+
+- Data loading and preprocessing
+- Data cleaning
+- Exploratory Data Analysis (EDA)
+- Aggregation and grouping operations
+- KPI calculations
+- Preparing data for visualization and reporting
+
+#### Example Analysis Tasks
+
+- Total Sales Calculation
+- Total Profit Calculation
+- Regional Sales Aggregation
+- Category-wise Performance Analysis
+- Monthly Trend Analysis
+- Database Integration
+
+---
+
+#### The project integrates Python with MySQL using:
+
+- SQLAlchemy
+- PyMySQL
+
+#### This enabled:
+
+- Automated CSV-to-MySQL data upload
+- Structured data storage
+- SQL-based business querying
+- Database-driven analytics workflow
+
+---
+
 # Dashboard Preview
 
 ## Power BI Dashboard
