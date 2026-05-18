@@ -243,4 +243,6 @@ This Project is licensed under the MIT License
 
 ---
 
+⭐ If you like this project
+Give it a ⭐ on GitHub — it helps a lot!
 
