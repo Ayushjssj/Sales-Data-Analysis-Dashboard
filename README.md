@@ -229,7 +229,7 @@ It highlights practical skills in:
 ---
 
 ## Author
-Ayush Pandey
+Ayush Pandey<br>
 Aspiring Data Analyst & GenAI Enthusiast
 - Python
 - SQL
