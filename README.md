@@ -21,7 +21,7 @@ The workflow includes:
 
 ## Power BI Dashboard
 
-![Power BI Dashboard](\Screenshots\Screenshot 2026-05-18 192038.png)
+![Power BI Dashboard](/Screenshots/Screenshot 2026-05-18 192038.png)
 
 ---
 
