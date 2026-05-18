@@ -33,9 +33,7 @@ The workflow includes:
 
 ## Python Analysis Preview
 
-> Add your Python output screenshot below
-
-![Python Analysis](screenshots/python_analysis.png)
+![Python Analysis](https://github.com/Ayushjssj/Sales-Data-Analysis-Dashboard/blob/main/output/Screenshot%202026-05-18%20192748.png?raw=true)
 
 ---
 
